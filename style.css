@@ -1,0 +1,11 @@
+html, body {
+    height: 100%;
+    width: 100%;
+  }
+  
+  body {
+    background-color: #2f0909;
+    text-align: center;
+    color: white;
+    font-size: 30px;
+  }
